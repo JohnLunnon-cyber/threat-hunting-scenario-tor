@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: John Lunnon
-- **Author Contact**: www.linkedin.com/in/john-lunnon-10a811346
+- **Author Contact**: https://www.linkedin.com/in/john-lunnon/
 - **Date**: April 8th 2025
 
 ## Validated By:
